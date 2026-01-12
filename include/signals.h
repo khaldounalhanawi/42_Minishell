@@ -1,23 +1,20 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   parser.h                                           :+:      :+:    :+:   */
+/*   signals.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/05 19:41:33 by kalhanaw          #+#    #+#             */
-/*   Updated: 2025/11/13 14:34:49 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/06 12:31:40 by pecavalc          #+#    #+#             */
+/*   Updated: 2025/11/13 11:48:44 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef PARSER_H
-# define PARSER_H
+#ifndef SIGNALS_H
+# define SIGNALS_H
 
-# include "types.h"
-
-int		parse(char *line, t_exec_context *exec_context);
-char	*search_env(char *str, char **envp);
-void	*perror_null(char *str);
-int		cmd_lst_delete_list(t_cmd **head);
+void	register_signals(void);
+void	handle_sigint(int signal);
+void	heredoc_handle_sigint(int sig);
 
 #endif

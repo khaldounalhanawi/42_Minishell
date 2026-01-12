@@ -1,23 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   parser.h                                           :+:      :+:    :+:   */
+/*   fn_built_in_env.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/05 19:41:33 by kalhanaw          #+#    #+#             */
-/*   Updated: 2025/11/13 14:34:49 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/11/15 23:59:17 by pecavalc          #+#    #+#             */
+/*   Updated: 2025/11/16 00:02:31 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef PARSER_H
-# define PARSER_H
+#include "types.h"
+#include "libft.h"
 
-# include "types.h"
+int	builtin_env(t_exec_context *exec_context)
+{
+	int	i;
 
-int		parse(char *line, t_exec_context *exec_context);
-char	*search_env(char *str, char **envp);
-void	*perror_null(char *str);
-int		cmd_lst_delete_list(t_cmd **head);
-
-#endif
+	i = 0;
+	while (exec_context->envp[i])
+		ft_printf("%s\n", exec_context->envp[i++]);
+	return (1);
+}

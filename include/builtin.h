@@ -1,23 +1,21 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   parser.h                                           :+:      :+:    :+:   */
+/*   builtin.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/05 19:41:33 by kalhanaw          #+#    #+#             */
-/*   Updated: 2025/11/13 14:34:49 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/15 23:40:10 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef PARSER_H
-# define PARSER_H
+#ifndef BUILTIN_H
+# define BUILTIN_H
 
 # include "types.h"
 
-int		parse(char *line, t_exec_context *exec_context);
-char	*search_env(char *str, char **envp);
-void	*perror_null(char *str);
-int		cmd_lst_delete_list(t_cmd **head);
+int	is_builtin(t_cmd *cmd_lst);
+int	search_builtin_functions(t_exec_context *exec_context);
 
 #endif

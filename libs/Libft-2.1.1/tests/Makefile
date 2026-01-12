@@ -6,7 +6,7 @@
 #    By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/12 13:15:08 by pecavalc          #+#    #+#              #
-#    Updated: 2025/09/18 13:34:35 by pecavalc         ###   ########.fr        #
+#    Updated: 2025/11/03 15:33:27 by pecavalc         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,7 +17,7 @@ GNL_BUFFER_SIZE = 100
 SRCS_DIR = srcs
 OBJS_DIR = objs
 
-SRCS = test_ft_atoi.c test_ft_bzero.c \
+SRCS = test_ft_atoi.c test_ft_bzero.c test_ft_strtol.c \
 	   test_ft_calloc_overflow.c test_ft_calloc.c test_ft_isalnum.c \
 	   test_ft_isalpha.c test_ft_isascii.c test_ft_isdigit.c \
 	   test_ft_isprint.c test_ft_itoa.c test_ft_memchr.c test_ft_memcmp.c \

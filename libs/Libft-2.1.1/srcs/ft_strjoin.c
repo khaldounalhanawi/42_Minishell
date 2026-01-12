@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strjoin.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42.fr>          +#+  +:+       +#+        */
+/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/18 23:42:55 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/05/19 00:14:14 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/06 13:21:31 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,8 @@ char	*ft_strjoin(char const *s1, char const *s2)
 	char	*dst;
 	size_t	size;
 
+	if (!s1 || !s2)
+		return (NULL);
 	size = (ft_strlen(s1) + ft_strlen(s2) + 1) * sizeof(char);
 	dst = (char *)malloc(size);
 	if (dst == NULL)

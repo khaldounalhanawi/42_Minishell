@@ -6,7 +6,7 @@
 /*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/06 12:16:36 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/18 13:33:45 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/03 15:31:42 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,6 +42,7 @@ int	main()
 	print_result(test_ft_memcmp(), "test_ft_memcmp");
 	print_result(test_ft_strnstr(), "test_ft_strnstr");
 	print_result(test_ft_atoi(), "test_ft_atoi");
+	print_result(test_ft_strtol(), "test_ft_strtol");
 	print_result(test_ft_strdup(), "test_ft_strdup");
 	print_result(test_ft_substr(), "test_ft_substr");
 	print_result(test_ft_strjoin(), "test_ft_strjoin");

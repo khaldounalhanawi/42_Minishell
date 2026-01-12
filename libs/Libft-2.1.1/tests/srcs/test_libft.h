@@ -6,7 +6,7 @@
 /*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/13 23:39:46 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/18 13:36:14 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/03 15:32:00 by pecavalc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,6 +42,7 @@ int		test_ft_memchr(void);
 int		test_ft_memcmp(void);
 int		test_ft_strnstr(void);
 int		test_ft_atoi(void);
+int		test_ft_strtol(void);
 int		test_ft_strdup(void);
 int		test_ft_substr(void);
 int		test_ft_strjoin(void);
