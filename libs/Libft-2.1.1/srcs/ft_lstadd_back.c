@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/06/14 00:31:22 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/06 19:11:49 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/06/14 00:31:22 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/06 19:11:49 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

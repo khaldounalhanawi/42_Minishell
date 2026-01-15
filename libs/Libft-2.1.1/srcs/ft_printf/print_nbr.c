@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   print_nbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/06/24 17:42:17 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/07/09 17:44:42 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/06/24 17:42:17 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/07/09 17:44:42 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

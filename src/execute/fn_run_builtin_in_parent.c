@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_run_builtin_in_parent.c                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/15 16:52:57 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/17 13:35:11 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/11/15 16:52:57 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/17 13:35:11 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

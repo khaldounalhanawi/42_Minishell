@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstmap_bonus.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/06/14 12:11:44 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/06 19:12:29 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/06/14 12:11:44 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/06 19:12:29 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

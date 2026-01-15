@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_cmd_list.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/15 12:57:06 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/12/01 09:38:01 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/15 12:57:06 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/12/01 09:38:01 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

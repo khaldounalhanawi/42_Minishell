@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_helpers.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/05 19:37:52 by kalhanaw          #+#    #+#             */
-/*   Updated: 2025/11/07 10:14:56 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/07 10:14:56 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

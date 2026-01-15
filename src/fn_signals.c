@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_signals.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/06 13:30:56 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/13 17:14:51 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/06 13:30:56 by kalhanaw          #+#    #+#             */
+/*   Updated: 2026/01/15 12:11:56 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

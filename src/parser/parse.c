@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/10 13:34:00 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/17 23:51:41 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/10 13:34:00 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/17 23:51:41 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

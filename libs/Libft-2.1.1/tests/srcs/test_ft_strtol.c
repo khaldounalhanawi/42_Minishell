@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ft_strtol.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/03 16:50:00 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/03 15:45:47 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/11/03 16:50:00 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/03 15:45:47 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

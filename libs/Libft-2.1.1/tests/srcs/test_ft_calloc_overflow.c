@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ft_calloc_overflow.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42.fr>          +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/15 18:42:01 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/05/15 22:59:10 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/15 18:42:01 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/05/15 22:59:10 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

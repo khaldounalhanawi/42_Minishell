@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_check_token_sequence.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/10 21:18:49 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/07 11:00:06 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/10 21:18:49 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/07 11:00:06 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

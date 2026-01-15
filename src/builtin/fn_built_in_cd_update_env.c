@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_built_in_cd_update_env.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/16 14:26:12 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/12/01 10:38:07 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/11/16 14:26:12 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/12/01 10:38:07 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

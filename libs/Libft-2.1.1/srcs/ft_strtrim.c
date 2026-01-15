@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/19 12:05:54 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/05/22 20:30:59 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/19 12:05:54 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/05/22 20:30:59 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstnew.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/06/13 23:44:18 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/06 19:12:42 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/06/13 23:44:18 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/06 19:12:42 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

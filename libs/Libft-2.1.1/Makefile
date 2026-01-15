@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+         #
+#    By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2025/05/12 13:15:08 by pecavalc          #+#    #+#              #
-#    Updated: 2025/11/03 15:29:36 by pecavalc         ###   ########.fr        #
+#    Created: 2025/05/12 13:15:08 by kalhanaw          #+#    #+#              #
+#    Updated: 2025/11/03 15:29:36 by kalhanaw         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

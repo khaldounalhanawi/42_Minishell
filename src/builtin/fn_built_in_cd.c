@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_built_in_cd.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/16 14:26:12 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/17 15:10:24 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/11/16 14:26:12 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/17 15:10:24 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

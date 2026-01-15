@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ft_strmapi.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/20 15:26:19 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/06 19:40:12 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/20 15:26:19 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/06 19:40:12 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

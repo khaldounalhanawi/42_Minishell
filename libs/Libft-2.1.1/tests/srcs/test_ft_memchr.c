@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ft_memchr.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/18 12:50:45 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/05/22 16:34:57 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/18 12:50:45 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/05/22 16:34:57 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

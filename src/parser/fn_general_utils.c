@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fn_general_utils.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/14 16:58:40 by kalhanaw          #+#    #+#             */
-/*   Updated: 2025/11/04 14:48:37 by pecavalc         ###   ########.fr       */
+/*   Updated: 2025/11/04 14:48:37 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

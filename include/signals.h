@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   signals.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/06 12:31:40 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/13 11:48:44 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/06 12:31:40 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/13 11:48:44 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

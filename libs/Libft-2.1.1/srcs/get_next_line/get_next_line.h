@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/06/13 12:14:43 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/06 17:26:36 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/06/13 12:14:43 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/06 17:26:36 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

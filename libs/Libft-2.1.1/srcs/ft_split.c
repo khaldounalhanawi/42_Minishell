@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/19 15:41:03 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/12 02:00:51 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/19 15:41:03 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/12 02:00:51 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

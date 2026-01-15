@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ft_putendl_fd.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/20 16:37:04 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/09/07 01:00:08 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/05/20 16:37:04 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/09/07 01:00:08 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

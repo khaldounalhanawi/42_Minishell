@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_build_cmd_lst.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pecavalc <pecavalc@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: kalhanaw <kalhanaw@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/16 13:10:00 by pecavalc          #+#    #+#             */
-/*   Updated: 2025/11/11 19:15:57 by pecavalc         ###   ########.fr       */
+/*   Created: 2025/10/16 13:10:00 by kalhanaw          #+#    #+#             */
+/*   Updated: 2025/11/11 19:15:57 by kalhanaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
