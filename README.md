@@ -1,7 +1,6 @@
 # minishell
-
+![minishell screenshot](screenshot.png)
 A compact Unix-like shell implemented in C as part of the 42 Berlin core curriculum.
-
 This project reproduces essential features of a POSIX shell, including command parsing, process management, and signal handling.
 
 ---
